@@ -1,6 +1,6 @@
 # Simple Data API
 
-This is an API which returns first names, last names and emails for men and women
+This is an API which returns first names, last names and emails
 
 More features will be added in the future...
 
