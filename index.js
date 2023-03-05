@@ -3,10 +3,7 @@ const express = require("express");
 const app = express();
 
 app.get("/", (req, res) => {
-  res.send({
-    message:
-      "Go to docs - https://github.com/devashu397/Simple-Data-API/#readme",
-  });
+  res.redirect("https://github.com/iamashuu397/Simple-Data-API/#readme");
 });
 
 app.get("/men/name", (req, res) => {
