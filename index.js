@@ -335,5 +335,5 @@ app.get("/women/profile", (req, res) => {
 });
 
 app.listen(3000, () => {
-  console.log("Listening to http://localhost:3000");
+  console.log("Running on http://localhost:3000");
 });
